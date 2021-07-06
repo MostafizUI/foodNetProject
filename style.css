@@ -1,0 +1,45 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+.promo-part{
+    display: flex;
+    
+    
+}
+
+.promo-div{
+    width: 50%;
+    padding: 5%;
+}
+
+.promo-div img{
+    width: 100%;
+}
+
+.promo-div h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(82, 74, 74);
+    
+}
+
+.promo-div p{
+    font-size: 20px;
+    font-weight: 500px;
+    color: rgb(122, 117, 117);
+    padding-bottom: 50px;
+}
+
+#orange{
+    color: orangered;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 25px 20px 25px;
+    border-radius: 100px;
+
+}
