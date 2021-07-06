@@ -136,3 +136,49 @@ body {
     font-weight: 300;
     color: rgb(36, 138, 36);
 }
+
+.social {
+    display: flex;
+    margin: 10%;
+    padding-left: 7%;
+    box-shadow: 5px 5px 50px grey;
+    border-radius: 20px;
+
+}
+
+.follower {
+    width: 20%;
+    padding: 6.6%;
+
+}
+
+.follower img {
+    width: 25%;
+}
+
+.follower h1 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.follower p {
+    text-align: justify;
+
+}
+
+.footer {
+    text-align: center;
+    background: black;
+    margin: 0;
+}
+
+.footer h1 {
+    color: grey;
+    padding-top: 2%;
+}
+
+.footer p {
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
